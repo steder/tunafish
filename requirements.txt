@@ -1,0 +1,4 @@
+audioread==1.0.3
+mutagen==1.26
+pyacoustid==1.1.0
+requests==2.4.3
